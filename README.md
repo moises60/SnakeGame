@@ -39,7 +39,9 @@
 - **Compilador C++** compatible con C++11 o superior (por ejemplo, `g++`).
 - **SFML** instalada en tu sistema.
 
-### Instalación de SFML en Ubuntu 20.04
+### Clonar el Repositorio
+Para obtener una copia local del proyecto, clona el repositorio usando Git:
+  git clone https://github.com/moises60/SnakeGame.git
 
 ### Compilar el Proyecto
     make
@@ -47,8 +49,5 @@
     ./bin/SnakeGame
 ### Limpiar Archivos Compilados
     make clean
-### Clonar el Repositorio
-Para obtener una copia local del proyecto, clona el repositorio usando Git:
-```bash
-git clone https://github.com/moises60/SnakeGame.git
+
 
