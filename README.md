@@ -40,10 +40,9 @@
 - **SFML** instalada en tu sistema.
 
 ### Clonar el Repositorio
-Para obtener una copia local del proyecto, clona el repositorio usando Git:
-```bash
-git clone https://github.com/moises60/SnakeGame.git
-
+    git clone https://github.com/moises60/SnakeGame.git
+### Acceder a la carpeta     
+  cd SnakeGame
 ### Compilar el Proyecto
     make
 ### Ejecutar el Juego
