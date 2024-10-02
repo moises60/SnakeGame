@@ -41,7 +41,8 @@
 
 ### Clonar el Repositorio
 Para obtener una copia local del proyecto, clona el repositorio usando Git:
-  git clone https://github.com/moises60/SnakeGame.git
+```bash
+git clone https://github.com/moises60/SnakeGame.git
 
 ### Compilar el Proyecto
     make
