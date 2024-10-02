@@ -47,4 +47,8 @@
     ./bin/SnakeGame
 ### Limpiar Archivos Compilados
     make clean
+### Clonar el Repositorio
+Para obtener una copia local del proyecto, clona el repositorio usando Git:
+```bash
+git clone https://github.com/moises60/SnakeGame_c.git
 
