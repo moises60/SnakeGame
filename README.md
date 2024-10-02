@@ -42,7 +42,7 @@
 ### Clonar el Repositorio
     git clone https://github.com/moises60/SnakeGame.git
 ### Acceder a la carpeta     
-  cd SnakeGame
+    cd SnakeGame
 ### Compilar el Proyecto
     make
 ### Ejecutar el Juego
